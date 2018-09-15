@@ -1,3 +1,7 @@
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+  
 p {
   color: #2499ff;
 }
