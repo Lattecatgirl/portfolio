@@ -22,3 +22,11 @@ body {
 .navbar2 {
   background-color:#ff0a91
 }
+
+.column {
+  width: 100%:
+    float: left;
+  padding: 10px;
+  height: 500px;
+}
+  
