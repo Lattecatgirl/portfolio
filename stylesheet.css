@@ -4,6 +4,7 @@ h1 {
 
 body {
   margin: 0;
+  background-color: #ff1a79;
   font-family: "cursive";
 }
 
@@ -23,13 +24,9 @@ body {
   font-size: 17px;
 }
 
-.navbar2 {
-  background-color:#ff0a91
-}
-
 .column {
   width: 100%;
-    float: left;
+  float: left;
   padding: 10px;
   height: 500px;
 }
