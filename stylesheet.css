@@ -1,5 +1,31 @@
 h1 {
   border-bottom: 7px solid pink;
+  -webkit-animation:colorchange 20s infinite alternate;
+}
+
+@-webkit-keyframes colorchange {
+  0% {
+    color:#ff1a1a;
+  }
+  10% {
+    color: ;
+  }
+  20% { 
+    color: ;
+  }
+  30% {
+    color:  ;
+  }
+  40% {
+    color: ;
+  }
+  50%
+  60%
+  70%
+  80%
+  90%
+  100%
+  }
 }
 
 body {
