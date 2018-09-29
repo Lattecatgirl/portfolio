@@ -8,20 +8,26 @@ h1 {
     color:#ff1a1a;
   }
   10% {
-    color: ;
+    color:#ff661a;
   }
   20% { 
-    color: ;
+    color:#ff8c1a;
   }
   30% {
-    color:  ;
+    color:#ffdd1a;
   }
   40% {
+    color:#a3ff1a;
+  }
+  50% {
     color: ;
   }
-  50%
-  60%
-  70%
+  60% {
+    color: ;
+  }
+  70% {
+    color: ;
+  }
   80%
   90%
   100%
@@ -58,5 +64,5 @@ body {
 }
   
   .HOBBIES{
-    background-color: #ff8abe;
+    background-image: url("https://github.com/Lattecatgirl/portfolio/blob/gh-pages/OMBRE.jpg?raw=true");
 }
