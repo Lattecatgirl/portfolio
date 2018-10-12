@@ -20,17 +20,22 @@ h1 {
     color:#a3ff1a;
   }
   50% {
-    color: ;
+    color:#1afff4;
   }
   60% {
-    color: ;
+    color:#1ac2ff;
   }
   70% {
-    color: ;
+    color:#751aff;
   }
-  80%
-  90%
-  100%
+  80% {
+    color:#c21aff;
+  }
+  90%{
+    color:#ff1afb;
+  }
+  100%{
+    color:#ff47c2;
   }
 }
 
