@@ -71,3 +71,13 @@ body {
   .HOBBIES{
     background-image: url"https://github.com/Lattecatgirl/portfolio/blob/gh-pages/OMBRE.jpg?raw=true";
 }
+.HOBBIES {
+ width: 100%;
+ height: 100%; 
+ float: left;
+ padding: 10px;
+ height: 800px;
+ background-image: url("https://github.com/Lattecatgirl/portfolio/blob/gh-pages/OMBRE.jpg?raw=true");
+ background-size: cover;
+ background-position: center;
+}
