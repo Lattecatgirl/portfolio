@@ -55,11 +55,13 @@ body {
 
 .navbar a {
   float: left;
-  color: #0af3ff;
-  padding: 14px, 16px;
+  color: #005875;
+  text-align: center;
+  padding: 14px 16px;
   text-decoration: none;
-  font-size: 17px;
+  font size: 17px;
 }
+
 
 .column {
   width: 100%;
